@@ -1,0 +1,25 @@
+{
+    "id": "C3D4D318",
+    "path": "~/repos/shiny_visuals/test.R",
+    "project_path": "test.R",
+    "type": "r_source",
+    "hash": "3702838990",
+    "contents": "",
+    "dirty": false,
+    "created": 1604744798204.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "9,4",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1604768478,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1604768478565,
+    "read_only": false,
+    "read_only_alternatives": []
+}
